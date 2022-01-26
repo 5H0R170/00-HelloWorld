@@ -3,7 +3,8 @@
 
 int main() // Программы на C++ начинаются с выполнения функции main
 {
-    cout << "Hello, World!\n"; // Вывод строки "Hello, World!"
+    cout << "Hello, programming!\n"; // Вывод строки "Hello, World!"
+    cout << "Here we go!\n";
     keep_window_open(); // Ожидание ввода символа
     return 0;
 }
